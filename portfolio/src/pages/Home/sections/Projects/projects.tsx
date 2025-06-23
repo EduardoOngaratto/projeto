@@ -100,7 +100,7 @@ const Projects = () => {
                 Forms, que realiza diversas operações de processamento digital
                 de imagens, incluindo operações aritméticas, lógicas,
                 geométricas, de intensidade e histogramas. Além disso, permite a
-                visualização comparativa entre imagens originais e processadas.
+                visualização comparativa entre imagens originais.
               </Typography>
               <TechStack>Tecnologias: C#</TechStack>
               <Box mt={2}>
